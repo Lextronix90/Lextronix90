@@ -1,16 +1,15 @@
-## Hi there 👋
+Experienced technician and operations specialist with a diverse multidisciplinary background in civilian and government sectors.
 
-<!--
-**Lextronix90/Lextronix90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##🧰 What I Do
 
-Here are some ideas to get you started:
+##🧠 Deep-dive research // Unconventional Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##🛠️ Civilian Defense Research — Data Analytics for Defense
+
+##🤖 LLMs // Stable Diffusion // FOIA's
+
+##🔍 Current Focus
+Building a modular digital research workflow
+Optimizing local AI models and tools for accessibility
+Designing tools for structured intelligence gathering
+
